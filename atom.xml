@@ -6,7 +6,7 @@
   <link href="https://tefuirluis.github.io/atom.xml" rel="self"/>
   
   <link href="https://tefuirluis.github.io/"/>
-  <updated>2023-05-22T13:16:47.160Z</updated>
+  <updated>2023-05-26T14:54:09.707Z</updated>
   <id>https://tefuirluis.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My New Post</title>
+    <link href="https://tefuirluis.github.io/2023/05/26/My-New-Post/"/>
+    <id>https://tefuirluis.github.io/2023/05/26/My-New-Post/</id>
+    <published>2023-05-26T14:49:10.000Z</published>
+    <updated>2023-05-26T14:54:09.707Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="测试我的新博客"><a href="#测试我的新博客" class="headerlink" title="测试我的新博客"></a>测试我的新博客</h3>]]></content>
+    
+    
+    <summary type="html">用于测试的博客文章页面</summary>
+    
+    
+    
+    
+    <category term="test" scheme="https://tefuirluis.github.io/tags/test/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
