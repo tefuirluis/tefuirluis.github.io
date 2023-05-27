@@ -1,8 +1,5 @@
-https://tefuirluis.github.io/2023/05/26/My-New-Post/
 https://tefuirluis.github.io/categories/index.html
 https://tefuirluis.github.io/tags/index.html
 https://tefuirluis.github.io/link/index.html
 https://tefuirluis.github.io/about/index.html
-https://tefuirluis.github.io/2023/05/22/hello-world/
 https://tefuirluis.github.io/
-https://tefuirluis.github.io/tags/test/
