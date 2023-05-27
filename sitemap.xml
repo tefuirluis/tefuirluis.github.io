@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://tefuirluis.github.io/2023/05/27/%E4%B8%80%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%BD%93%E4%B8%8B%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%80%9D%E8%80%83/</loc>
+    
+    <lastmod>2023-05-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tefuirluis.github.io/2023/05/26/My-New-Post/</loc>
+    
+    <lastmod>2023-05-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://tefuirluis.github.io/categories/index.html</loc>
     
     <lastmod>2023-05-23</lastmod>
@@ -37,6 +55,15 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://tefuirluis.github.io/2023/05/22/hello-world/</loc>
+    
+    <lastmod>2023-05-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>https://tefuirluis.github.io/</loc>
@@ -45,6 +72,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://tefuirluis.github.io/tags/test/</loc>
+    <lastmod>2023-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
